@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@theme {
+  --color-primary: #ef0000;
+  --color-secondary: #333333;
+  --color-background: #ffffff;
+  --color-tiktok: #000;
+  --color-facebook: #2a00fc;
+}
